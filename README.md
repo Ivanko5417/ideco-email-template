@@ -1,0 +1,1 @@
+# ideco-email-template
