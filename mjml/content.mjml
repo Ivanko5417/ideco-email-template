@@ -1,0 +1,75 @@
+<mj-section>
+  <mj-column width="80%">
+    <mj-text font-weight="300" line-height="36px" letter-spacing="-0.15px" font-size="30px" color="#0061ab" align="left" font-family="Prompt">
+      Let’s get the lights on and the internet fired up so everything is ready when you move in!
+    </mj-text>
+    <mj-text align="left" font-family="Zilla Slab" font-weight="300" line-height="25px" letter-spacing="-0.11px" font-size="17px" color="#4a4a4a" font-family="Prompt">
+      <strong>El Dorado View</strong> recommends you set up all of your utilities at once, and MyProviders makes that <strong>easy and quick</strong>. MyProviders is a <strong>free service</strong> that gives you smart choices for <strong>all of your utilities</strong>      and service providers. Best of all you can get everything <strong>setup in minutes</strong> — and you only need to <strong>complete one form</strong>!
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section text-align="left" padding="20px 50px">
+  <mj-group width="50%">
+    <mj-column padding-left="20px" width="30%">
+      <mj-image align="right" padding="24px 10px 0 0" width="32px" src="https://image.ibb.co/gG7vkK/check_Mark_Blue.png" />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text align="left" padding="30px 0 0 0" font-size="17px" color="#0061ab" font-weight="300">Electricity</mj-text>
+    </mj-column>
+  </mj-group>
+
+  <mj-group width="50%">
+    <mj-column padding-left="20px" width="30%">
+      <mj-image align="right" padding="24px 10px 0 0" width="32px" src="https://image.ibb.co/gG7vkK/check_Mark_Blue.png" />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text align="left" padding="30px 0 0 0" font-size="17px" color="#0061ab" font-weight="300">Telephone</mj-text>
+    </mj-column>
+  </mj-group>
+
+  <mj-group width="50%">
+    <mj-column padding-left="20px" width="30%">
+      <mj-image align="right" padding="24px 10px 0 0" width="32px" src="https://image.ibb.co/gG7vkK/check_Mark_Blue.png" />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text align="left" padding="30px 0 0 0" font-size="17px" color="#0061ab" font-weight="300">Television</mj-text>
+    </mj-column>
+  </mj-group>
+
+  <mj-group width="50%">
+    <mj-column padding-left="20px" width="30%">
+      <mj-image align="right" padding="24px 10px 0 0" width="32px" src="https://image.ibb.co/gG7vkK/check_Mark_Blue.png" />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text align="left" padding="30px 0 0 0" font-size="17px" color="#0061ab" font-weight="300">Internet</mj-text>
+    </mj-column>
+  </mj-group>
+
+  <mj-group width="50%">
+    <mj-column padding-left="20px" width="30%">
+      <mj-image align="right" padding="24px 10px 0 0" width="32px" src="https://image.ibb.co/gG7vkK/check_Mark_Blue.png" />
+    </mj-column>
+    <mj-column width="60%">
+      <mj-text align="left" padding="30px 0 0 0" font-weight="900" font-size="17px" color="#0061ab" font-weight="300">ALL AT ONCE</mj-text>
+    </mj-column>
+  </mj-group>
+
+</mj-section>
+    <mj-column>
+      <mj-spacer height="40px" />
+    </mj-column>
+<mj-button href="http://demo.myproviders.io" border-radius="37px" font-size="16px" font-weight="800" line-height="30px" font-family="Helvetica" background-color="#00e5ff" color="white">
+    <img style="vertical-align: middle; width: 35px; height: 35px;" src="https://image.ibb.co/mS0Cze/check_Mark_White.png" /> LET’S GET THIS DONE
+  </mj-button>
+<mj-column>
+	<mj-spacer height="30px" />
+</mj-column>
+
+<mj-hero
+  mode="fixed-height"
+  background-url="https://preview.ibb.co/g1OkkK/Rectangle_Copy_4.png" 
+  padding="30px">
+  <mj-text color="#ffffff" font-family="Prompt" align="center" font-size="34px" line-height="40px" font-weight="300" letter-spacing="-0.2x">
+    Simply. Smart. All Setup!
+  </mj-text>
+</mj-hero>

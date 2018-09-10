@@ -1,0 +1,17 @@
+<mj-hero
+  mode="fixed-height"
+  background-url="https://preview.ibb.co/cthpCz/sub_Header.png" 
+  background-color="#2a3448"
+  width="100%"
+  padding="70px 0px">
+  <mj-text
+    color="#ffffff"
+    font-family="Prompt"
+    align="center"
+    font-size="35px"
+    font-weight="800"
+    letter-spacing="-0.136666px"
+    text-transform="uppercase">
+    you’re almost home!
+  </mj-text>
+</mj-hero>

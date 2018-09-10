@@ -1,0 +1,9 @@
+<mj-section>
+  <mj-column>
+    <mj-image width="275" height="40px" src="https://preview.ibb.co/jzizee/logo.png" />
+    <mj-text align="center" font-size="16.5px" color="#868686" >
+      Address & Contact Info Here
+    </mj-text>
+    <mj-image width="85px" src="https://image.ibb.co/bzORxz/powered_By.png" />
+  </mj-column>
+</mj-section>
